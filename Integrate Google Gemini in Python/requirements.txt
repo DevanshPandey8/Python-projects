@@ -1,0 +1,8 @@
+# Requirements for AI Assistant
+# Core dependencies
+google-generativeai>=0.3.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# GUI is built with tkinter (included in Python standard library)
+# No additional GUI dependencies required
